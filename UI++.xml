@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIpp Title=" Example4AB" Color="#002147">
+<Software></Software>
+
+<Actions>
+        <Action Type="Info" Name="myInfo" Title="Welcome AB" Timeout="30" TimeoutAction="Continue">
+            <![CDATA[This GUI is configured by an xml file that is never downloaded<br>and is accessible from anywhere.]]>
+        </Action>
+
+</Actions>
+</UIpp>
